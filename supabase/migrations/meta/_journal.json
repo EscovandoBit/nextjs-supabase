@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789566034756,
+      "tag": "0000_todos_with_rls",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789566059108,
+      "tag": "0001_rls_hardening_and_realtime",
+      "breakpoints": true
+    }
+  ]
+}
